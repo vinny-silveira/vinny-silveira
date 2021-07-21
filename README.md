@@ -16,8 +16,8 @@ Linguagens: Java, PHP, Apex(Salesforce), JavaScript, HTML, CSS
 Tecnologias: Linux, Docker, Git, NodeJS...
 Aprendendo: Sempre
 
-Sobre: Desenvolvedor Full Stack apaixonado por novas tecnologias
-Hobbies: Jogar, tocar ukulele/violao, viajar
+Sobre: Desenvolvedor full stack apaixonado pelo que faz
+Hobbies: Jogar, tocar ukulele/violao, viajar...
 Formacao: Analise e Desenvolvimento de Sistemas
 ```
 
