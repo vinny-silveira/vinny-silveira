@@ -7,8 +7,8 @@
 ```csharp
 vinny-silveira@github
 -------------------------
-OS: Ubuntu 20.04.2 LTS x86_64
-Shell: bash 5.0.17
+OS: Manjaro Linux x86_64
+Shell: bash 5.1.12
 Location: Brasil, SP
 
 Frameworks: React, NextJS, VueJS, Symfony, Laravel, Codeigniter
