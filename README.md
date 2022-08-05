@@ -25,8 +25,8 @@ Tecnologias: [
 ]
 Aprendendo: "Sempre"
 
-Sobre: "Engenheiro/arquiteto de software 'T-Shaped' apaixonado pelo que faz"
-Hobbies: "Jogar, tocar ukulele/violao, viajar, estudar, curtir a família..."
+Sobre: "Engenheiro/arquiteto de software 'T-Shaped'"
+Hobbies: "Viajar, curtir a família, estudar..."
 Formacao: "Analise e Desenvolvimento de Sistemas"
 ```
 
