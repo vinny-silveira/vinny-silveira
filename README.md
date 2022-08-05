@@ -11,9 +11,18 @@ OS: VinnyxOS (based on myself)
 Shell: vnx 1.0.0
 Location: Brasil, SP
 
-Frameworks: ["NestJS", "React", "NextJS", "Symfony", "Laravel", "Codeigniter",]
-Linguagens: ["Typescript", "Javascript", "Java", "PHP", "Apex(Salesforce)", "Python", "SQL"]
-Tecnologias: ["Linux", "Docker", "Git", "NodeJS", "Azure DevOps", ...]
+Frameworks: [
+  "NestJS", "React", "NextJS",
+  "Symfony", "Lumen/Laravel", "Codeigniter",
+]
+Linguagens: [
+  "Typescript", "Javascript", "Java", "PHP",
+  "Apex(Salesforce)", "Python", "SQL"
+]
+Tecnologias: [
+  "Linux", "Docker", "Git",
+  "NodeJS", "Azure DevOps", ...
+]
 Aprendendo: "Sempre"
 
 Sobre: "Engenheiro/arquiteto de software 'T-Shaped' apaixonado pelo que faz"
